@@ -1,4 +1,4 @@
-# ML in Health Care DeCal Fall 2020
+# Machine Learning in Health Care DeCal Fall 2020
 
 <a href = "https://docs.google.com/document/d/13rCAiLn1ihg62K649chNgH21pPS6l0S5WZ8VztM3k5Q/edit?usp=sharing"> Course Syllabus </a>
 
